@@ -52,5 +52,4 @@ To simplify visual data interpretation using machine learning by converting char
 
 **Ninad Patil**
 
----
 
