@@ -46,6 +46,7 @@ To simplify visual data interpretation using machine learning by converting char
 
 **Organization:** Suvidha Foundation  
 **Domain:** Machine Learning 
+
 **Project:** ChartInsight AI
 
 ## Author
