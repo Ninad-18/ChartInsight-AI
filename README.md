@@ -42,12 +42,7 @@ The system analyzes visual representations of data and helps users understand un
 
 To simplify visual data interpretation using machine learning by converting chart images into understandable insights, making data analysis more accessible and efficient.
 
-## Internship
-
-**Organization:** Suvidha Foundation  
-**Domain:** Machine Learning 
 
 **Project:** ChartInsight AI
-
 ## Author
 **Ninad Patil**
