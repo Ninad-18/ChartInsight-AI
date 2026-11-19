@@ -18,7 +18,6 @@ The system analyzes visual representations of data and helps users understand un
 
 - Python
 - Machine Learning
-- Scikit-learn
 - NumPy
 - Pandas
 - Matplotlib
