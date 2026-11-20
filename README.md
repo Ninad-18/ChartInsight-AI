@@ -27,7 +27,7 @@ The system analyzes visual representations of data and helps users understand un
 
 1. Upload a chart image.
 2. Process the image to extract relevant visual information.
-3. Classify the chart pattern using a machine learning model.
+3. Classify the chart patterns/trends using a machine learning model.
 4. Analyze the extracted data.
 5. Generate meaningful insights based on the chart.
 
