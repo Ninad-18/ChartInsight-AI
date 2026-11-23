@@ -1,2 +1,7 @@
 overview
 chartinsigh is a ML based appln
+
+
+ChartInsight AI is a machine learning-based application that analyzes uploaded chart images (JPG/PNG) and automatically generates meaningful insights from them. It supports bar charts, line graphs, and pie charts by identifying chart patterns, interpreting the visualized data, and converting them into easy-to-understand textual explanations.
+
+Core idea: Converting visual data into meaningful, automated insights using machine learning.
